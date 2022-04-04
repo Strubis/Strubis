@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Strubis&count_private=true&include_all_commits=true&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/Strubis">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strubis&hide=jupyter%20notebook&langs_count=5&layout=compact&theme=dark" />
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strubis&hide=jupyter%20notebook&hide=cmake&langs_count=5&layout=compact&theme=dark" />
   </a>
 </div>
 
