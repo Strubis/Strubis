@@ -3,6 +3,8 @@
 💻 I'm a computer science student with an intense love of java, currently learning Spring Framework and game development.
 
 ⚡ I'm always wanting to learn about everything.
+
+📫 How to reach me: emersonlima910@gmail.com
 <!--
 **Strubis/Strubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,5 +28,3 @@ Here are some ideas to get you started:
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strubis&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=dark" />
   </a>
 </div>
-
-📫 How to reach me: emersonlima910@gmail.com
