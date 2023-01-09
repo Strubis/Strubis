@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ## About me:
 <div>
   <a href="https://github.com/Strubis">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=strubis&count_private=true&include_all_commits=true&show_icons=true&theme=dark" />
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=strubis&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt" />
   </a>
   <a href="https://github.com/Strubis">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strubis&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=dark" />
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strubis&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=cobalt" />
   </a>
 </div>
