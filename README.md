@@ -1,6 +1,6 @@
 ### Hello, I'm Emerson Lima 👋
 
-💻 I'm a computer science student with an intense love of java.
+💻 I'm a computer scientist with an intense love of java.
 
 ⚡ I'm always wanting to learn about everything.
 
